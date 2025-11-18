@@ -1,4 +1,4 @@
-<img width="1153" height="653" alt="3" src="https://github.com/user-attachments/assets/02b05669-6abd-468a-ad96-08aeb82d7826" />Dystopia
+Dystopia
 
 Descripción:
 Dystopia en un juego de plataforma 2D no lineal, el cual busca mezclar mecánicas de puzles con juegos al estilo shooter lateral, derrotando enemigos de diferentes rasgos y tipos mientras se cumplen objetivos específicos de cada nivel usando su lógica y sentido de la exploración.
